@@ -1,5 +1,5 @@
 # CSS343: Data Structures, Algorithms, and Discrete Math II
-University of Washington Bothell CSS343 Slides + Programs
+University of Washington
 
 ## Project 1: Linked List Implementations and Algorithms
 
